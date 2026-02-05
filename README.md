@@ -8,7 +8,7 @@ The main goal of this repository is to showcase practical engineering work invol
 - Embedded systems development
 - Hardware and firmware integration
 - PCB design and validation
-- Debugging and testing on real hardware platforms
+- FPGA design
 
 The projects here emphasize applied engineering rather than theoretical examples, with a strong focus on reliability, clarity, and real-world constraints.
 
