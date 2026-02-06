@@ -6,5 +6,6 @@ The system uses a **200W cartridge heater** as the heat source to warm the water
 
 ## Operation
 The device includes an **encoder** for temperature selection, a **solid‑state relay (SSR)** for heater control, a **thermometer** for temperature monitoring and stabilization, and an **OLED display** for real‑time visualization.
-Temperature can also be selected using a **smartphone** via **Bluetooth Low Energy (BLE)** communication.  
-Additionally, the firmware supports **Over‑the‑Air (OTA)** updates, allowing wireless programming and maintenance.
+
+Temperature can also be selected using a **smartphone** via **Bluetooth Low Energy (BLE)** communication. Additionally, the firmware supports **Over‑the‑Air (OTA)** updates, allowing wireless programming and maintenance.
+
